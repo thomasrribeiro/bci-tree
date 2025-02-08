@@ -9,3 +9,6 @@ An **electric field** is a vector field that represents the force per unit charg
 1. the presence of an electric charge ([[Gauss' law]])
 2. a changing magnetic field ([[Faraday's law]])
 3. moving charges or electromagnetic waves ([[Ampère-Maxwell's law]])
+
+
+![[electric_field.png|300]]
