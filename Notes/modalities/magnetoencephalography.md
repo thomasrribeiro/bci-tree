@@ -13,6 +13,8 @@ We denote MEG measurement recordings $M(\mathbf{x}_\text{sensors}, t) \in Y$ to 
 - a single component of the magnetic field $\mathbf{B}(\mathbf{x},t)$, measured in tesla $\text{T}$, for a magnetometer readout
 - the spatial derivative of a component of $\mathbf{B}(\mathbf{x},t)$, $\frac{\partial B_n}{\partial x}$, e.g., $$B_n(\mathbf{x}_1,t)-B_n(\mathbf{x}_2,t)$$ for the simplest gradiometer readout, where $\mathbf{x}_1$ and $\mathbf{x}_2$ are two nearby sensor locations.
 
+Analogous to [[electroencephalogram]], we might use the raw measurement recordings directly however, it is typical to perform source reconstruction as outlined below. 
+
 We make explicit the dependence of measurements $M(\mathbf{x}_\text{sensors}, t) \in Y$ at sensor positions $\mathbf{x}_\text{sensors}$, on the primary current density $\mathbf{J}_p(\mathbf{x},t) \in X$, measured in amperes per squared meter $\frac{\text{A}}{\text{m}^2}$, due to neuronal activity: $$M(\mathbf{x}_\text{sensors}, t)=\mathcal{F}\mathbf{J}_p + \delta M, \tag{1}$$where:
 - $X$ is a Hilbert space of functions representing admissible current densities,
 - $Y$ is a Hilbert space of functions representing admissible measurement recordings,

@@ -20,7 +20,7 @@ We can define the action of $\mathcal{F}$ on $\mathbf{J}_p$ more precisely as: $
 - $\Phi$ is a Hilbert space of functions that represents all admissible electric potentials,
 - $\mathcal{R}:\Phi \rightarrow Y$ is an operator that extracts $\phi_{\mathbf{J}_p}(\mathbf{x},t)$ at sensor positions $\mathbf{x}_\text{sensors}$ and subtracts the values relative to a reference electric potential $\phi_{\mathbf{J}_p}(A,t)$ at a position $A$.
 
-From the [[quasi-static approximations of Maxwell's equations]], we derived $\phi(\mathbf{x},t)$ as the solution to the system of equations: $$\begin{align}
+From the [[quasi-static approximations of Maxwell's equations]], we derive $\phi(\mathbf{x},t)$ as the solution to the system of equations: $$\begin{align}
 \nabla\cdot(\sigma\nabla\phi)&=\nabla\cdot\mathbf{J}_p \\
 \sigma\nabla\phi &= \frac{1}{\mu_0}(\nabla\times\mathbf{B}) - \mathbf{J}_p 
 \end{align}\tag{3}$$where $\sigma(\mathbf{x}, t)$ is the electrical conductivity, measured in ohm meter $\Omega\cdot\text{m}$, $\mu_0$ is the permeability of free space, measured in henry per meter $\frac{\text{H}}{\text{m}}$, and $\mathbf{B}(\mathbf{x},t)$ is the magnetic field, measured in tesla $\text{T}$.  
