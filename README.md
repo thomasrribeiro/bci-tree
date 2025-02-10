@@ -30,14 +30,15 @@ Below is our tiling tree:
 			- [[magnetoencephalography]] (MEG)
 			- [[magnetoencephalography (conductivity reconstruction)]]
 		3. EMF
-			- kerr effect?
+			- [kerr](https://en.wikipedia.org/wiki/Kerr_effect), [pockels](https://en.wikipedia.org/wiki/Pockels_effect) effect? - unlikely
 		4. AF
-			- elastic wave source reconstruction?
+			- 
 	2. AS
 		1. EF
-			- electrical impedance tomography (EIT) - 
+			- electrical impedance tomography (EIT) 
 		2. MF
 			- magnetic induction tomography (MIT)
+			- magnetic resonance electrical properties tomography (MREPT)
 		3. EMF
 			- [digital holographic imaging](https://www.nature.com/articles/s41598-024-70876-8)
 		4. AF
