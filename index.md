@@ -1,3 +1,6 @@
+
+Modified
+
 We explore various non-invasive methods for measuring brain activity. 
 
 Our first distinction is based on the type of brain activity being measured:
